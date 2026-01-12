@@ -12,7 +12,6 @@ public class ResolucionConflictos001 {
 		apellidos = sc.nextLine();
 		System.out.println("Hola, soy "+nombre+" "+apellidos);
 
-		System.out.println("Hola, soy Gonzalo López Romero");
 		
 	}
 
